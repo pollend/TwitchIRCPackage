@@ -1,0 +1,3 @@
+[submodule "Assets/TwitchIRC/UnityTwitchIRC"]
+	path = Assets/TwitchIRC/UnityTwitchIRC
+	url = https://github.com/pollend/UnityTwitchIRC.git
