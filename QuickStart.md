@@ -11,7 +11,7 @@
 It's possible to retrieve the token through the twitch by using the Get Oauth Token
 
 NOTE: These steps should be used for testing if the twitch integration
-portitions of your app function correctly, but shouldn't be used in
+portions of your app function correctly, but shouldn't be used in
 production. You will have to grab the component during runtime and provide the
 appropriate Account, outh, channels and also call connect(). The library will
 auto connect on startup if the correct authentication is provided through the
