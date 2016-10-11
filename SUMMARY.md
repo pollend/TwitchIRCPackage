@@ -7,7 +7,6 @@
 	* [OnConnectEvent](Events/OnConnectEvent.md)
 	* [OnJoinChannelEvent](Events/OnJoinChannelEvent.md)
 	* [OperatorChangeEvent](Events/OperatorChangeEvent.md)
-	* [README](Events/README.md)
 	* [RoomStateEvent](Events/RoomStateEvent.md)
 	* [ServerNotices](Events/ServerNotices.md)
 	* [SubscriberEvent](Events/SubscriberEvent.md)
