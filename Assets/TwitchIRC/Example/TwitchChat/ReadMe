@@ -1,6 +1,0 @@
-﻿This is the most basic example of this library in use that takes advantage 
-of the twitch wrapper that hides the threading of the library and also integrates nicer into unity. You can 
-
-To connect to twitch chat you need a twitch user name, an oauth token and a channel to connect to. 
-The Canvas in the scene has the wrapper along with an account field and a button that opens a browser
-to a page where an oauth token can be retrieved.
