@@ -16,4 +16,4 @@ easy to use in regards to usecase.
 
 # Licensing
 
-The license used is the MIT License - see license.md
+The license used is the MIT License
