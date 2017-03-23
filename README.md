@@ -1,5 +1,5 @@
 
-
+![image](https://raw.githubusercontent.com/pollend/TwitchIRCPackage/master/image.png)
 # TwitchIRC
 
 TwitchIRC is a basic frontend used for ease of use integration through twitch. The implementation is suppose to minmalistic and
