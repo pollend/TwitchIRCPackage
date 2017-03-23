@@ -11,15 +11,14 @@
 It's possible to retrieve the token through the twitch by using the Get Oauth Token
 
 NOTE: These steps should be used for testing if the twitch integration
-portions of your app function correctly, but shouldn't be used in
+portions of your app functions correctly, but shouldn't be used in
 production. You will have to grab the component during runtime and provide the
 appropriate Account, outh, channels and also call connect(). The library will
 auto connect on startup if the correct authentication is provided through the
 inspector.
 
-* At this stage your app should connect to twitch. You will need to attach to
-the selection of events provided by the wrapper for an app to take full
-advantage of the library.
+* In the insector you should see a selection of events to attach to. Each event
+is a seperate message call provided through twitchs IRC API. 
 
 ![Events](./images/Events_QuickStart.png)
 
